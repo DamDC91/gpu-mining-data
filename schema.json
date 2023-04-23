@@ -1,0 +1,64 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "https://github.com/DamDC91/gpu-mining-data/blob/master/schema.json",
+    "description": "Top 5 GPU for bitcoin mining each month",
+    "type": "array",
+    "definitions": {
+        "gpu": {
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string",
+                    "description": "Name of the GPU"
+                },
+                "tdp": {
+                    "type": "number",
+                    "minimum": 0,
+                    "description": "TDP of the GPU"
+                },
+                "release_date": {
+                    "type": "string",
+                    "format": "date",
+                    "description": "Release date of the GPU"
+                },
+                "hash_rate": {
+                    "type": "number",
+                    "minimum": 0,
+                    "description": "Approximative hashrate of the GPU"
+                },
+                "net_worth": {
+                    "type": "number",
+                    "description": "Approximative net worth"
+                }
+            },
+            "required": [
+                "name",
+                "tdp",
+                "release_date",
+                "hash_rate",
+                "net_worth"
+            ]
+        }
+    },
+    "items": {
+        "type": "object",
+        "properties": {
+            "month": {
+                "type": "string",
+                "format": "date"
+            },
+            "gpus": {
+                "type": "array",
+                "minItems": 5,
+                "maxItems": 5,
+                "items": {
+                    "$ref": "#/definitions/gpu"
+                }
+            }
+        },
+        "required": [
+            "month",
+            "gpus"
+        ]
+    }
+}

@@ -1,0 +1,3562 @@
+[
+    {
+        "month": "2015-06-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 980",
+                "tdp": 165,
+                "date": "2014-09-18",
+                "hash_rate": 4612.0,
+                "net_worth": 6487.542644871366
+            },
+            {
+                "name": "GeForce GTX TITAN X",
+                "tdp": 250,
+                "date": "2015-03-17",
+                "hash_rate": 6144.0,
+                "net_worth": 6478.078978350143
+            },
+            {
+                "name": "GeForce GTX 970",
+                "tdp": 145,
+                "date": "2014-09-18",
+                "hash_rate": 3494.4,
+                "net_worth": 6476.528892207618
+            },
+            {
+                "name": "GeForce GTX 980 Ti",
+                "tdp": 250,
+                "date": "2015-06-01",
+                "hash_rate": 5632.0,
+                "net_worth": 6470.954845068843
+            },
+            {
+                "name": "GeForce GTX 960",
+                "tdp": 120,
+                "date": "2015-01-22",
+                "hash_rate": 2308.0,
+                "net_worth": 6456.310491512024
+            }
+        ]
+    },
+    {
+        "month": "2015-07-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 980",
+                "tdp": 165,
+                "date": "2014-09-18",
+                "hash_rate": 4612.0,
+                "net_worth": 6476.12616287441
+            },
+            {
+                "name": "GeForce GTX TITAN X",
+                "tdp": 250,
+                "date": "2015-03-17",
+                "hash_rate": 6144.0,
+                "net_worth": 6466.578585567891
+            },
+            {
+                "name": "GeForce GTX 970",
+                "tdp": 145,
+                "date": "2014-09-18",
+                "hash_rate": 3494.4,
+                "net_worth": 6465.014755392312
+            },
+            {
+                "name": "GeForce GTX 980 Ti",
+                "tdp": 250,
+                "date": "2015-06-01",
+                "hash_rate": 5632.0,
+                "net_worth": 6459.391285265983
+            },
+            {
+                "name": "GeForce GTX 960",
+                "tdp": 120,
+                "date": "2015-01-22",
+                "hash_rate": 2308.0,
+                "net_worth": 6444.617085712971
+            }
+        ]
+    },
+    {
+        "month": "2015-08-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 980",
+                "tdp": 165,
+                "date": "2014-09-18",
+                "hash_rate": 4612.0,
+                "net_worth": 7620.572609650513
+            },
+            {
+                "name": "GeForce GTX TITAN X",
+                "tdp": 250,
+                "date": "2015-03-17",
+                "hash_rate": 6144.0,
+                "net_worth": 7610.63500426831
+            },
+            {
+                "name": "GeForce GTX 970",
+                "tdp": 145,
+                "date": "2014-09-18",
+                "hash_rate": 3494.4,
+                "net_worth": 7609.007290067023
+            },
+            {
+                "name": "GeForce GTX 980 Ti",
+                "tdp": 250,
+                "date": "2015-06-01",
+                "hash_rate": 5632.0,
+                "net_worth": 7603.154095565428
+            },
+            {
+                "name": "GeForce GTX 960",
+                "tdp": 120,
+                "date": "2015-01-22",
+                "hash_rate": 2308.0,
+                "net_worth": 7587.7763551940025
+            }
+        ]
+    },
+    {
+        "month": "2015-09-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 980",
+                "tdp": 165,
+                "date": "2014-09-18",
+                "hash_rate": 4612.0,
+                "net_worth": 6973.137397485621
+            },
+            {
+                "name": "GeForce GTX TITAN X",
+                "tdp": 250,
+                "date": "2015-03-17",
+                "hash_rate": 6144.0,
+                "net_worth": 6962.896982378942
+            },
+            {
+                "name": "GeForce GTX 970",
+                "tdp": 145,
+                "date": "2014-09-18",
+                "hash_rate": 3494.4,
+                "net_worth": 6961.219669942481
+            },
+            {
+                "name": "GeForce GTX 980 Ti",
+                "tdp": 250,
+                "date": "2015-06-01",
+                "hash_rate": 5632.0,
+                "net_worth": 6955.188122191169
+            },
+            {
+                "name": "GeForce GTX 960",
+                "tdp": 120,
+                "date": "2015-01-22",
+                "hash_rate": 2308.0,
+                "net_worth": 6939.341805221474
+            }
+        ]
+    },
+    {
+        "month": "2015-10-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 980",
+                "tdp": 165,
+                "date": "2014-09-18",
+                "hash_rate": 4612.0,
+                "net_worth": 6395.0518399438615
+            },
+            {
+                "name": "GeForce GTX TITAN X",
+                "tdp": 250,
+                "date": "2015-03-17",
+                "hash_rate": 6144.0,
+                "net_worth": 6383.941235608851
+            },
+            {
+                "name": "GeForce GTX 970",
+                "tdp": 145,
+                "date": "2014-09-18",
+                "hash_rate": 3494.4,
+                "net_worth": 6382.121391917597
+            },
+            {
+                "name": "GeForce GTX 980 Ti",
+                "tdp": 250,
+                "date": "2015-06-01",
+                "hash_rate": 5632.0,
+                "net_worth": 6375.577307532887
+            },
+            {
+                "name": "GeForce GTX 960",
+                "tdp": 120,
+                "date": "2015-01-22",
+                "hash_rate": 2308.0,
+                "net_worth": 6358.384434374589
+            }
+        ]
+    },
+    {
+        "month": "2015-11-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 980",
+                "tdp": 165,
+                "date": "2014-09-18",
+                "hash_rate": 4612.0,
+                "net_worth": 7147.397581563628
+            },
+            {
+                "name": "GeForce GTX TITAN X",
+                "tdp": 250,
+                "date": "2015-03-17",
+                "hash_rate": 6144.0,
+                "net_worth": 7136.002535542684
+            },
+            {
+                "name": "GeForce GTX 970",
+                "tdp": 145,
+                "date": "2014-09-18",
+                "hash_rate": 3494.4,
+                "net_worth": 7134.136102179792
+            },
+            {
+                "name": "GeForce GTX 980 Ti",
+                "tdp": 250,
+                "date": "2015-06-01",
+                "hash_rate": 5632.0,
+                "net_worth": 7127.424483218281
+            },
+            {
+                "name": "GeForce GTX 960",
+                "tdp": 120,
+                "date": "2015-01-22",
+                "hash_rate": 2308.0,
+                "net_worth": 7109.791456700209
+            }
+        ]
+    },
+    {
+        "month": "2015-12-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 980",
+                "tdp": 165,
+                "date": "2014-09-18",
+                "hash_rate": 4612.0,
+                "net_worth": 9541.73723984765
+            },
+            {
+                "name": "GeForce GTX TITAN X",
+                "tdp": 250,
+                "date": "2015-03-17",
+                "hash_rate": 6144.0,
+                "net_worth": 9529.774585908901
+            },
+            {
+                "name": "GeForce GTX 970",
+                "tdp": 145,
+                "date": "2014-09-18",
+                "hash_rate": 3494.4,
+                "net_worth": 9527.81518211369
+            },
+            {
+                "name": "GeForce GTX 980 Ti",
+                "tdp": 250,
+                "date": "2015-06-01",
+                "hash_rate": 5632.0,
+                "net_worth": 9520.769245233952
+            },
+            {
+                "name": "GeForce GTX 960",
+                "tdp": 120,
+                "date": "2015-01-22",
+                "hash_rate": 2308.0,
+                "net_worth": 9502.257885671139
+            }
+        ]
+    },
+    {
+        "month": "2016-01-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 980",
+                "tdp": 165,
+                "date": "2014-09-18",
+                "hash_rate": 4612.0,
+                "net_worth": 11513.424997523905
+            },
+            {
+                "name": "GeForce GTX TITAN X",
+                "tdp": 250,
+                "date": "2015-03-17",
+                "hash_rate": 6144.0,
+                "net_worth": 11497.85636752788
+            },
+            {
+                "name": "GeForce GTX 970",
+                "tdp": 145,
+                "date": "2014-09-18",
+                "hash_rate": 3494.4,
+                "net_worth": 11495.306328643816
+            },
+            {
+                "name": "GeForce GTX 980 Ti",
+                "tdp": 250,
+                "date": "2015-06-01",
+                "hash_rate": 5632.0,
+                "net_worth": 11486.136491848596
+            },
+            {
+                "name": "GeForce GTX 960",
+                "tdp": 120,
+                "date": "2015-01-22",
+                "hash_rate": 2308.0,
+                "net_worth": 11462.045139776354
+            }
+        ]
+    },
+    {
+        "month": "2016-02-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 980",
+                "tdp": 165,
+                "date": "2014-09-18",
+                "hash_rate": 4612.0,
+                "net_worth": 11376.19414281656
+            },
+            {
+                "name": "GeForce GTX TITAN X",
+                "tdp": 250,
+                "date": "2015-03-17",
+                "hash_rate": 6144.0,
+                "net_worth": 11355.068898622447
+            },
+            {
+                "name": "GeForce GTX 970",
+                "tdp": 145,
+                "date": "2014-09-18",
+                "hash_rate": 3494.4,
+                "net_worth": 11351.608722990803
+            },
+            {
+                "name": "GeForce GTX 980 Ti",
+                "tdp": 250,
+                "date": "2015-06-01",
+                "hash_rate": 5632.0,
+                "net_worth": 11339.166071224488
+            },
+            {
+                "name": "GeForce GTX 960",
+                "tdp": 120,
+                "date": "2015-01-22",
+                "hash_rate": 2308.0,
+                "net_worth": 11306.476252298713
+            }
+        ]
+    },
+    {
+        "month": "2016-03-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 980",
+                "tdp": 165,
+                "date": "2014-09-18",
+                "hash_rate": 4612.0,
+                "net_worth": 10973.447868589621
+            },
+            {
+                "name": "GeForce GTX TITAN X",
+                "tdp": 250,
+                "date": "2015-03-17",
+                "hash_rate": 6144.0,
+                "net_worth": 10945.726517820842
+            },
+            {
+                "name": "GeForce GTX 970",
+                "tdp": 145,
+                "date": "2014-09-18",
+                "hash_rate": 3494.4,
+                "net_worth": 10941.185943448067
+            },
+            {
+                "name": "GeForce GTX 980 Ti",
+                "tdp": 250,
+                "date": "2015-06-01",
+                "hash_rate": 5632.0,
+                "net_worth": 10924.85822146112
+            },
+            {
+                "name": "GeForce GTX 960",
+                "tdp": 120,
+                "date": "2015-01-22",
+                "hash_rate": 2308.0,
+                "net_worth": 10881.961394864345
+            }
+        ]
+    },
+    {
+        "month": "2016-04-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 980",
+                "tdp": 165,
+                "date": "2014-09-18",
+                "hash_rate": 4612.0,
+                "net_worth": 11298.243813657213
+            },
+            {
+                "name": "GeForce GTX TITAN X",
+                "tdp": 250,
+                "date": "2015-03-17",
+                "hash_rate": 6144.0,
+                "net_worth": 11266.728755033066
+            },
+            {
+                "name": "GeForce GTX 970",
+                "tdp": 145,
+                "date": "2014-09-18",
+                "hash_rate": 3494.4,
+                "net_worth": 11261.566796341413
+            },
+            {
+                "name": "GeForce GTX 980 Ti",
+                "tdp": 250,
+                "date": "2015-06-01",
+                "hash_rate": 5632.0,
+                "net_worth": 11243.004601450213
+            },
+            {
+                "name": "GeForce GTX 960",
+                "tdp": 120,
+                "date": "2015-01-22",
+                "hash_rate": 2308.0,
+                "net_worth": 11194.237280684963
+            }
+        ]
+    },
+    {
+        "month": "2016-05-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 980",
+                "tdp": 165,
+                "date": "2014-09-18",
+                "hash_rate": 4612.0,
+                "net_worth": 11775.770551658909
+            },
+            {
+                "name": "GeForce GTX TITAN X",
+                "tdp": 250,
+                "date": "2015-03-17",
+                "hash_rate": 6144.0,
+                "net_worth": 11742.187468715421
+            },
+            {
+                "name": "GeForce GTX 970",
+                "tdp": 145,
+                "date": "2014-09-18",
+                "hash_rate": 3494.4,
+                "net_worth": 11736.686781283419
+            },
+            {
+                "name": "GeForce GTX 980 Ti",
+                "tdp": 250,
+                "date": "2015-06-01",
+                "hash_rate": 5632.0,
+                "net_worth": 11716.906531527935
+            },
+            {
+                "name": "GeForce GTX 960",
+                "tdp": 120,
+                "date": "2015-01-22",
+                "hash_rate": 2308.0,
+                "net_worth": 11664.939089622676
+            }
+        ]
+    },
+    {
+        "month": "2016-06-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 12529.700300337267
+            },
+            {
+                "name": "GeForce GTX 980",
+                "tdp": 165,
+                "date": "2014-09-18",
+                "hash_rate": 4612.0,
+                "net_worth": 12426.233187137379
+            },
+            {
+                "name": "GeForce GTX TITAN X",
+                "tdp": 250,
+                "date": "2015-03-17",
+                "hash_rate": 6144.0,
+                "net_worth": 12389.653793021862
+            },
+            {
+                "name": "GeForce GTX 970",
+                "tdp": 145,
+                "date": "2014-09-18",
+                "hash_rate": 3494.4,
+                "net_worth": 12383.662329587129
+            },
+            {
+                "name": "GeForce GTX 980 Ti",
+                "tdp": 250,
+                "date": "2015-06-01",
+                "hash_rate": 5632.0,
+                "net_worth": 12362.117269155162
+            }
+        ]
+    },
+    {
+        "month": "2016-07-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 17466.50828897931
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 17434.050307904003
+            },
+            {
+                "name": "GeForce GTX 980",
+                "tdp": 165,
+                "date": "2014-09-18",
+                "hash_rate": 4612.0,
+                "net_worth": 17355.41874067716
+            },
+            {
+                "name": "GeForce GTX TITAN X",
+                "tdp": 250,
+                "date": "2015-03-17",
+                "hash_rate": 6144.0,
+                "net_worth": 17316.14453804614
+            },
+            {
+                "name": "GeForce GTX 970",
+                "tdp": 145,
+                "date": "2014-09-18",
+                "hash_rate": 3494.4,
+                "net_worth": 17309.711682754743
+            }
+        ]
+    },
+    {
+        "month": "2016-08-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 18023.907129831012
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 17989.933468474206
+            },
+            {
+                "name": "GeForce GTX 1060",
+                "tdp": 120,
+                "date": "2016-07-19",
+                "hash_rate": 3855.3,
+                "net_worth": 17946.532910810853
+            },
+            {
+                "name": "GeForce GTX 980",
+                "tdp": 165,
+                "date": "2014-09-18",
+                "hash_rate": 4612.0,
+                "net_worth": 17907.63006732545
+            },
+            {
+                "name": "GeForce GTX TITAN X",
+                "tdp": 250,
+                "date": "2015-03-17",
+                "hash_rate": 6144.0,
+                "net_worth": 17866.52188942772
+            }
+        ]
+    },
+    {
+        "month": "2016-09-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 15734.85085088603
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 15702.033635116348
+            },
+            {
+                "name": "GeForce GTX 1060",
+                "tdp": 120,
+                "date": "2016-07-19",
+                "hash_rate": 3855.3,
+                "net_worth": 15660.110409638692
+            },
+            {
+                "name": "GeForce GTX 980",
+                "tdp": 165,
+                "date": "2014-09-18",
+                "hash_rate": 4612.0,
+                "net_worth": 15622.531798510903
+            },
+            {
+                "name": "GeForce GTX TITAN X",
+                "tdp": 250,
+                "date": "2015-03-17",
+                "hash_rate": 6144.0,
+                "net_worth": 15582.822921395777
+            }
+        ]
+    },
+    {
+        "month": "2016-10-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 16564.010961403223
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 16527.753211746127
+            },
+            {
+                "name": "GeForce GTX 1060",
+                "tdp": 120,
+                "date": "2016-07-19",
+                "hash_rate": 3855.3,
+                "net_worth": 16481.43478470909
+            },
+            {
+                "name": "GeForce GTX 980",
+                "tdp": 165,
+                "date": "2014-09-18",
+                "hash_rate": 4612.0,
+                "net_worth": 16439.916458343592
+            },
+            {
+                "name": "GeForce GTX TITAN X",
+                "tdp": 250,
+                "date": "2015-03-17",
+                "hash_rate": 6144.0,
+                "net_worth": 16396.044530398543
+            }
+        ]
+    },
+    {
+        "month": "2016-11-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 17405.10603594285
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 17366.35476961168
+            },
+            {
+                "name": "GeForce GTX 1060",
+                "tdp": 120,
+                "date": "2016-07-19",
+                "hash_rate": 3855.3,
+                "net_worth": 17316.85093335245
+            },
+            {
+                "name": "GeForce GTX 980",
+                "tdp": 165,
+                "date": "2014-09-18",
+                "hash_rate": 4612.0,
+                "net_worth": 17272.477310117978
+            },
+            {
+                "name": "GeForce GTX TITAN X",
+                "tdp": 250,
+                "date": "2015-03-17",
+                "hash_rate": 6144.0,
+                "net_worth": 17225.588223499562
+            }
+        ]
+    },
+    {
+        "month": "2016-12-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 19712.032398112315
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 19671.431785000364
+            },
+            {
+                "name": "GeForce GTX 1060",
+                "tdp": 120,
+                "date": "2016-07-19",
+                "hash_rate": 3855.3,
+                "net_worth": 19619.565451489034
+            },
+            {
+                "name": "GeForce GTX 980",
+                "tdp": 165,
+                "date": "2014-09-18",
+                "hash_rate": 4612.0,
+                "net_worth": 19573.074162819343
+            },
+            {
+                "name": "GeForce GTX TITAN X",
+                "tdp": 250,
+                "date": "2015-03-17",
+                "hash_rate": 6144.0,
+                "net_worth": 19523.947364002033
+            }
+        ]
+    },
+    {
+        "month": "2017-01-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 10983.143004914658
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 10935.541457841493
+            },
+            {
+                "name": "GeForce GTX 1060",
+                "tdp": 120,
+                "date": "2016-07-19",
+                "hash_rate": 3855.3,
+                "net_worth": 10874.73159496223
+            },
+            {
+                "name": "GeForce GTX 980",
+                "tdp": 165,
+                "date": "2014-09-18",
+                "hash_rate": 4612.0,
+                "net_worth": 10820.223618444728
+            },
+            {
+                "name": "GeForce GTX TITAN X",
+                "tdp": 250,
+                "date": "2015-03-17",
+                "hash_rate": 6144.0,
+                "net_worth": 10762.625679713909
+            }
+        ]
+    },
+    {
+        "month": "2017-02-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 12299.210591386374
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 12242.993391138127
+            },
+            {
+                "name": "GeForce GTX 1060",
+                "tdp": 120,
+                "date": "2016-07-19",
+                "hash_rate": 3855.3,
+                "net_worth": 12171.177232867101
+            },
+            {
+                "name": "GeForce GTX 980",
+                "tdp": 165,
+                "date": "2014-09-18",
+                "hash_rate": 4612.0,
+                "net_worth": 12106.80357235768
+            },
+            {
+                "name": "GeForce GTX TITAN X",
+                "tdp": 250,
+                "date": "2015-03-17",
+                "hash_rate": 6144.0,
+                "net_worth": 12038.780681199543
+            }
+        ]
+    },
+    {
+        "month": "2017-03-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 14373.381017161268
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 14304.754033715846
+            },
+            {
+                "name": "GeForce GTX 1060",
+                "tdp": 120,
+                "date": "2016-07-19",
+                "hash_rate": 3855.3,
+                "net_worth": 14217.08466770303
+            },
+            {
+                "name": "GeForce GTX 980",
+                "tdp": 165,
+                "date": "2014-09-18",
+                "hash_rate": 4612.0,
+                "net_worth": 14138.500709153102
+            },
+            {
+                "name": "GeForce GTX TITAN X",
+                "tdp": 250,
+                "date": "2015-03-17",
+                "hash_rate": 6144.0,
+                "net_worth": 14055.461962918765
+            }
+        ]
+    },
+    {
+        "month": "2017-04-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 15239.38852793369
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 15207.831516219128
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 15163.50073349081
+            },
+            {
+                "name": "GeForce GTX 1060",
+                "tdp": 120,
+                "date": "2016-07-19",
+                "hash_rate": 3855.3,
+                "net_worth": 15066.555851275356
+            },
+            {
+                "name": "GeForce GTX 980",
+                "tdp": 165,
+                "date": "2014-09-18",
+                "hash_rate": 4612.0,
+                "net_worth": 14979.657622713592
+            }
+        ]
+    },
+    {
+        "month": "2017-05-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 16296.579097043805
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 16296.579097043805
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 16261.314850511355
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 16211.776203910458
+            },
+            {
+                "name": "GeForce GTX 1060",
+                "tdp": 120,
+                "date": "2016-07-19",
+                "hash_rate": 3855.3,
+                "net_worth": 16103.442491662045
+            }
+        ]
+    },
+    {
+        "month": "2017-06-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 25680.12311790056
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 25680.12311790056
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 25641.989008323202
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 25588.418824254357
+            },
+            {
+                "name": "GeForce GTX 1060",
+                "tdp": 120,
+                "date": "2016-07-19",
+                "hash_rate": 3855.3,
+                "net_worth": 25471.268734289977
+            }
+        ]
+    },
+    {
+        "month": "2017-07-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 35613.55062758706
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 35613.55062758706
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 35566.68714411221
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 35500.854075930525
+            },
+            {
+                "name": "GeForce GTX 1060",
+                "tdp": 120,
+                "date": "2016-07-19",
+                "hash_rate": 3855.3,
+                "net_worth": 35356.88686741383
+            }
+        ]
+    },
+    {
+        "month": "2017-08-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 33394.269784885626
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 33394.269784885626
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 33341.14707290442
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 33266.521141143865
+            },
+            {
+                "name": "GeForce GTX 1060",
+                "tdp": 120,
+                "date": "2016-07-19",
+                "hash_rate": 3855.3,
+                "net_worth": 33103.32523709041
+            }
+        ]
+    },
+    {
+        "month": "2017-09-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 51228.18444260141
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 51228.18444260141
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 51168.97304949075
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 51085.79383636461
+            },
+            {
+                "name": "GeForce GTX 1060",
+                "tdp": 120,
+                "date": "2016-07-19",
+                "hash_rate": 3855.3,
+                "net_worth": 50903.893167732014
+            }
+        ]
+    },
+    {
+        "month": "2017-10-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 54809.83635518736
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 54809.83635518736
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 54742.21953444095
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 54647.23251170248
+            },
+            {
+                "name": "GeForce GTX 1060",
+                "tdp": 120,
+                "date": "2016-07-19",
+                "hash_rate": 3855.3,
+                "net_worth": 54439.509905318315
+            }
+        ]
+    },
+    {
+        "month": "2017-11-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 73246.65571522719
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 73246.65571522719
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 73167.65412688583
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 73056.6739656579
+            },
+            {
+                "name": "GeForce GTX 1060",
+                "tdp": 120,
+                "date": "2016-07-19",
+                "hash_rate": 3855.3,
+                "net_worth": 72813.97672468139
+            }
+        ]
+    },
+    {
+        "month": "2017-12-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 106011.3902881219
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 106011.3902881219
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 105951.13516507293
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 105923.019391187
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 105798.87737587315
+            }
+        ]
+    },
+    {
+        "month": "2018-01-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 205599.2262835945
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 205599.2262835945
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 205524.94097091342
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 205490.278539759
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 205337.2305007242
+            }
+        ]
+    },
+    {
+        "month": "2018-02-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 177302.68418280393
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 177302.68418280393
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 177202.28999210306
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 177155.4448406474
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 176948.6053798885
+            }
+        ]
+    },
+    {
+        "month": "2018-03-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 129334.76969622038
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 129334.76969622038
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 129202.26240824575
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 129140.43289469708
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 128867.43168018504
+            }
+        ]
+    },
+    {
+        "month": "2018-04-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 125299.65704191256
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 125299.65704191256
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 125144.6065155035
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 125072.25805248784
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 124752.81160793825
+            }
+        ]
+    },
+    {
+        "month": "2018-05-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 107565.69914537293
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 107565.69914537293
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 107394.74399524213
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 107314.9742411947
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 106962.75992659992
+            }
+        ]
+    },
+    {
+        "month": "2018-06-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 113629.10854969906
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 113629.10854969906
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 113437.67120672097
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 113348.34421216615
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 112953.93098452559
+            }
+        ]
+    },
+    {
+        "month": "2018-07-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 90148.93975761706
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 90148.93975761706
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 89916.52055243526
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 89808.07092211372
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 89329.22386199805
+            }
+        ]
+    },
+    {
+        "month": "2018-08-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 94038.50731828896
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 94038.50731828896
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 93791.22652259297
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 93675.8422932309
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 93166.37629643657
+            }
+        ]
+    },
+    {
+        "month": "2018-09-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 87165.78235220416
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 87165.78235220416
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 86877.8146985425
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 86743.4454859822
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 86150.15344603898
+            }
+        ]
+    },
+    {
+        "month": "2018-10-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 85909.71289108302
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 85909.71289108302
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 85588.98050931767
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 85439.32287578695
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 84778.5265445539
+            }
+        ]
+    },
+    {
+        "month": "2018-11-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 83193.5723407541
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 83193.5723407541
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 82874.51732674333
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 82725.64237342509
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 82068.30187802705
+            }
+        ]
+    },
+    {
+        "month": "2018-12-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 69074.30830778218
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 69074.30830778218
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 68767.68730316218
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 68624.61420998191
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 67992.89117092775
+            }
+        ]
+    },
+    {
+        "month": "2019-01-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 47088.87798361023
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 47088.87798361023
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 46841.03407986818
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 46725.38709743723
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 46214.76094422564
+            }
+        ]
+    },
+    {
+        "month": "2019-02-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 46195.94980226154
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 46195.94980226154
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 45932.71162374306
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 45809.88148531059
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 45267.53892030964
+            }
+        ]
+    },
+    {
+        "month": "2019-03-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 45583.22325595774
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 45583.22325595774
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 45301.972693074415
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 45170.73775683684
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 44591.284759021044
+            }
+        ]
+    },
+    {
+        "month": "2019-04-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 49285.13905587617
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 49285.13905587617
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 48993.671080682805
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 48857.66857548723
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 48257.16491689309
+            }
+        ]
+    },
+    {
+        "month": "2019-05-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 65063.08373786917
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 65063.08373786917
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 64761.1520571556
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 64620.26705959211
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 63998.205308918856
+            }
+        ]
+    },
+    {
+        "month": "2019-06-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 93365.11103564987
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 93365.11103564987
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 93050.87492127778
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 92904.24852519025
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 92256.83627958191
+            }
+        ]
+    },
+    {
+        "month": "2019-07-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 119111.05073424027
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 119111.05073424027
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 118757.16350174902
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 118592.03541128348
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 117862.93102957646
+            }
+        ]
+    },
+    {
+        "month": "2019-08-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 141409.3641355043
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 141409.3641355043
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 141004.58083825064
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 140815.70402442125
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 139981.73984438617
+            }
+        ]
+    },
+    {
+        "month": "2019-09-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 140158.49503529433
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 140158.49503529433
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 139704.58330614766
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 139492.78256796827
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 138557.60039623725
+            }
+        ]
+    },
+    {
+        "month": "2019-10-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 126702.72467144596
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 126702.72467144596
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 126168.21404803445
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 125918.80488467992
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 124817.56697096708
+            }
+        ]
+    },
+    {
+        "month": "2019-11-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 104687.55998920511
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 104687.55998920511
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 104098.29806933906
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 103823.34128458434
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 102609.3007419998
+            }
+        ]
+    },
+    {
+        "month": "2019-12-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 105379.35306389435
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 105379.35306389435
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 104785.97122967933
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 104509.09204273864
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 103286.56335102551
+            }
+        ]
+    },
+    {
+        "month": "2020-01-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 89152.66012830024
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 89152.66012830024
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 88569.81745894898
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 88297.85597462446
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 87097.04084185383
+            }
+        ]
+    },
+    {
+        "month": "2020-02-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 102531.00863373902
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 102531.00863373902
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 101861.16080868576
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 101548.60165961762
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 100168.53213609978
+            }
+        ]
+    },
+    {
+        "month": "2020-03-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 119022.82988012291
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 119022.82988012291
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 118293.12754826146
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 117952.63955772195
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 116449.25339779555
+            }
+        ]
+    },
+    {
+        "month": "2020-04-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 83080.9847004453
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 83080.9847004453
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 82347.07988317889
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 82004.63096179356
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 80492.58653380463
+            }
+        ]
+    },
+    {
+        "month": "2020-05-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 85521.60520515464
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 85521.60520515464
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 84821.76242633356
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 84495.20726671592
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 83053.33994374865
+            }
+        ]
+    },
+    {
+        "month": "2020-06-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 114573.32251834644
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 114573.32251834644
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 113835.85936653215
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 113491.75008293203
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 111972.37451362962
+            }
+        ]
+    },
+    {
+        "month": "2020-07-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 117822.25615095589
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 117822.25615095589
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 117123.79342798493
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 116797.88221922607
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 115358.8581883444
+            }
+        ]
+    },
+    {
+        "month": "2020-08-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 116963.93533863401
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 116963.93533863401
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 116175.25846639284
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 115807.25223742909
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 114182.36241234552
+            }
+        ]
+    },
+    {
+        "month": "2020-09-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 146086.08534122974
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 146086.08534122974
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 145256.96701039028
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 144870.09030456032
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 143161.88002606828
+            }
+        ]
+    },
+    {
+        "month": "2020-10-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 132832.20615522456
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 132832.20615522456
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 131973.23888712068
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 131572.43430381911
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 129802.72705976665
+            }
+        ]
+    },
+    {
+        "month": "2020-11-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 145717.91776688254
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 145717.91776688254
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 144827.59826093863
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 144412.16434181758
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 142577.8629223139
+            }
+        ]
+    },
+    {
+        "month": "2020-12-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 212667.32972553867
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 212667.32972553867
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 211884.35847871262
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 211519.0145640208
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 209905.87988608185
+            }
+        ]
+    },
+    {
+        "month": "2021-01-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 133616.55160298577
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 133616.55160298577
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 132752.458525542
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 132349.2621772072
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 130568.99436553208
+            }
+        ]
+    },
+    {
+        "month": "2021-02-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 226366.78822100666
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 226366.78822100666
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 225418.83249816892
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 224976.50481865322
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 223023.45704600628
+            }
+        ]
+    },
+    {
+        "month": "2021-03-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 298289.6626316627
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 298289.6626316627
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 297232.64126738097
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 296739.42223193747
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 294561.66944094136
+            }
+        ]
+    },
+    {
+        "month": "2021-04-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 351523.65939968836
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 351523.65939968836
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 350467.57201748964
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 349974.78878945514
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 347798.96025671595
+            }
+        ]
+    },
+    {
+        "month": "2021-05-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 377107.0303514612
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 377107.0303514612
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 375958.50694809447
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 375422.5919473813
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 373056.31995731057
+            }
+        ]
+    },
+    {
+        "month": "2021-06-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 306913.7707954131
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 306913.7707954131
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 305788.8151090727
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 305263.8970920082
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 302946.181037764
+            }
+        ]
+    },
+    {
+        "month": "2021-07-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 227532.24981771738
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 227532.24981771738
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 226524.1154607895
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 226053.70769806718
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 223976.67549825856
+            }
+        ]
+    },
+    {
+        "month": "2021-08-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 221291.01798620843
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 221291.01798620843
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 220555.21355643022
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 220211.87825272337
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 218695.92010398183
+            }
+        ]
+    },
+    {
+        "month": "2021-09-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 296595.19538155256
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 296595.19538155256
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 295823.3191388092
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 295463.1522880792
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 293872.8763497303
+            }
+        ]
+    },
+    {
+        "month": "2021-10-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 301326.2419604785
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 301326.2419604785
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 300403.6049916319
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 299973.09135092766
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 298072.20712864207
+            }
+        ]
+    },
+    {
+        "month": "2021-11-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 383964.52196609403
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 383964.52196609403
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 382995.1086983587
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 382542.7686671962
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 380545.5124898114
+            }
+        ]
+    },
+    {
+        "month": "2021-12-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 400270.33265383204
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 400270.33265383204
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 399188.16055764933
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 398683.2058845469
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 396453.63571459916
+            }
+        ]
+    },
+    {
+        "month": "2022-01-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 319696.7326777355
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 319696.7326777355
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 318537.76863258803
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 317996.98190132855
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 315609.199336783
+            }
+        ]
+    },
+    {
+        "month": "2022-02-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 260284.19809954666
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 260284.19809954666
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 259004.5254544547
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 258407.41462110402
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 255770.93936281628
+            }
+        ]
+    },
+    {
+        "month": "2022-03-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 256036.0448301565
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 256036.0448301565
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 254593.53824136578
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 253920.44710774638
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 250948.4894388454
+            }
+        ]
+    },
+    {
+        "month": "2022-04-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 261117.38756585505
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 261117.38756585505
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 259654.62528844737
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 258972.0826039516
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 255958.39268260065
+            }
+        ]
+    },
+    {
+        "month": "2022-05-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 261044.17415683574
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 261044.17415683574
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 259481.92734167218
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 258752.96396085792
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 255534.30871233402
+            }
+        ]
+    },
+    {
+        "month": "2022-06-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 187304.50275972084
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 187304.50275972084
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 185655.82848420387
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 184886.53699832776
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 181489.81756930242
+            }
+        ]
+    },
+    {
+        "month": "2022-07-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 137348.3856777206
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 137348.3856777206
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 135649.3690834847
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 134856.58725888922
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 131356.14889966996
+            }
+        ]
+    },
+    {
+        "month": "2022-08-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 116274.33540861719
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 116274.33540861719
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 114605.9536483858
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 113827.4664102474
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 110390.14417858192
+            }
+        ]
+    },
+    {
+        "month": "2022-09-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 125448.4409748721
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 125448.4409748721
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 123836.07424492767
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 123083.72430177883
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 119761.80833593474
+            }
+        ]
+    },
+    {
+        "month": "2022-10-01",
+        "gpus": [
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2016-05-27",
+                "hash_rate": 8227.8,
+                "net_worth": 104359.54994564418
+            },
+            {
+                "name": "GeForce GTX 1080",
+                "tdp": 180,
+                "date": "2017-04-20",
+                "hash_rate": 8227.8,
+                "net_worth": 104359.54994564418
+            },
+            {
+                "name": "GeForce GTX 1070 Ti",
+                "tdp": 180,
+                "date": "2017-11-02",
+                "hash_rate": 7816.4,
+                "net_worth": 102610.73151230377
+            },
+            {
+                "name": "GeForce GTX 1080 Ti",
+                "tdp": 250,
+                "date": "2017-03-05",
+                "hash_rate": 10608.6,
+                "net_worth": 101794.71154335624
+            },
+            {
+                "name": "GeForce GTX 1070",
+                "tdp": 150,
+                "date": "2016-06-10",
+                "hash_rate": 5783.0,
+                "net_worth": 98191.6677896091
+            }
+        ]
+    }
+]

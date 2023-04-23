@@ -1,0 +1,460 @@
+{
+    "date": "2023-04-23T16:44:05+00:00",
+    "categories": [
+      {
+        "name": "Desktop GPUs",
+        "generations": [
+          {
+            "name": "Pre-GeForce",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 256 series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce2 series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce3 series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce4 series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce FX (5xxx) series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 6 (6xxx) series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 7 (7xxx) series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 8 (8xxx) series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 9 (9xxx) series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 100 series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 200 series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 300 series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 400 series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 500 series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 600 series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 700 series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 900 series",
+            "gpus": [
+              {
+                "model": "GeForce GTX 950",
+                "launch": "2015-08-20",
+                "code_name": "GM206-250",
+                "processing_power": 1572.8,
+                "tdp": 90.0,
+                "release_price": 159.0
+              },
+              {
+                "model": "GeForce GTX 960",
+                "launch": "2015-01-22",
+                "code_name": "GM206-300",
+                "processing_power": 2308.0,
+                "tdp": 120.0,
+                "release_price": 199.0
+              },
+              {
+                "model": "GeForce GTX 970",
+                "launch": "2014-09-18",
+                "code_name": "GM204-200",
+                "processing_power": 3494.4,
+                "tdp": 145.0,
+                "release_price": 329.0
+              },
+              {
+                "model": "GeForce GTX 980",
+                "launch": "2014-09-18",
+                "code_name": "GM204-400",
+                "processing_power": 4612.0,
+                "tdp": 165.0,
+                "release_price": 549.0
+              },
+              {
+                "model": "GeForce GTX 980 Ti",
+                "launch": "2015-06-01",
+                "code_name": "GM200-310",
+                "processing_power": 5632.0,
+                "tdp": 250.0,
+                "release_price": 649.0
+              },
+              {
+                "model": "GeForce GTX TITAN X",
+                "launch": "2015-03-17",
+                "code_name": "GM200-400",
+                "processing_power": 6144.0,
+                "tdp": 250.0,
+                "release_price": 999.0
+              }
+            ]
+          },
+          {
+            "name": "GeForce 10 series",
+            "gpus": [
+              {
+                "model": "GeForce GTX 1060",
+                "launch": "2016-07-19",
+                "code_name": "GP106-400-A1",
+                "processing_power": 3855.3,
+                "tdp": 120.0,
+                "release_price": 299.0
+              },
+              {
+                "model": "GeForce GTX 1070",
+                "launch": "2016-06-10",
+                "code_name": "GP104-200-A1",
+                "processing_power": 5783.0,
+                "tdp": 150.0,
+                "release_price": 449.0
+              },
+              {
+                "model": "GeForce GTX 1070 Ti",
+                "launch": "2017-11-02",
+                "code_name": "GP104-300-A1",
+                "processing_power": 7816.4,
+                "tdp": 180.0,
+                "release_price": 449.0
+              },
+              {
+                "model": "GeForce GTX 1080",
+                "launch": "2016-05-27",
+                "code_name": "GP104-400-A1",
+                "processing_power": 8227.8,
+                "tdp": 180.0,
+                "release_price": 699.0
+              },
+              {
+                "model": "GeForce GTX 1080",
+                "launch": "2017-04-20",
+                "code_name": "GP104-410-A1",
+                "processing_power": 8227.8,
+                "tdp": 180.0,
+                "release_price": 699.0
+              },
+              {
+                "model": "GeForce GTX 1080 Ti",
+                "launch": "2017-03-05",
+                "code_name": "GP102-350-K1-A1",
+                "processing_power": 10608.6,
+                "tdp": 250.0,
+                "release_price": 699.0
+              }
+            ]
+          },
+          {
+            "name": "Volta series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 16 series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 20 series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 30 series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 40 series",
+            "gpus": []
+          }
+        ]
+      },
+      {
+        "name": "Mobile GPUs",
+        "generations": [
+          {
+            "name": "GeForce2 Go series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce4 Go series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce FX Go 5 (Go 5xxx) series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce Go 6 (Go 6xxx) series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce Go 7 (Go 7xxx) series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 8M (8xxxM) series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 9M (9xxxM) series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 100M (1xxM) series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 200M (2xxM) series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 300M (3xxM) series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 400M (4xxM) series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 500M (5xxM) series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 600M (6xxM) series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 700M (7xxM) series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 800M (8xxM) series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 900M (9xxM) series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 10 series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 16 series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 20 series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 30 series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce 40 series",
+            "gpus": []
+          },
+          {
+            "name": "GeForce MX series",
+            "gpus": []
+          }
+        ]
+      },
+      {
+        "name": "Workstation GPUs",
+        "generations": [
+          {
+            "name": "Quadro",
+            "gpus": []
+          },
+          {
+            "name": "Quadro FX series",
+            "gpus": []
+          },
+          {
+            "name": "Quadro FX (x300) series",
+            "gpus": []
+          },
+          {
+            "name": "Quadro FX (x400) series",
+            "gpus": []
+          },
+          {
+            "name": "Quadro FX (x500) series",
+            "gpus": []
+          },
+          {
+            "name": "Quadro FX (x600) series",
+            "gpus": []
+          },
+          {
+            "name": "Quadro FX (x700) series",
+            "gpus": []
+          },
+          {
+            "name": "Quadro FX (x800) series",
+            "gpus": []
+          },
+          {
+            "name": "Quadro x000 series",
+            "gpus": []
+          },
+          {
+            "name": "Quadro Kxxx series",
+            "gpus": []
+          },
+          {
+            "name": "Quadro Mxxx series",
+            "gpus": []
+          },
+          {
+            "name": "Quadro Pxxx series",
+            "gpus": []
+          },
+          {
+            "name": "Quadro GVxxx series",
+            "gpus": []
+          },
+          {
+            "name": "Quadro Tx00/Tx000 series",
+            "gpus": []
+          },
+          {
+            "name": "Quadro RTX x000 series",
+            "gpus": []
+          },
+          {
+            "name": "RTX Ax000 series",
+            "gpus": []
+          },
+          {
+            "name": "Quadro NVS",
+            "gpus": []
+          }
+        ]
+      },
+      {
+        "name": "Mobile Workstation GPUs",
+        "generations": [
+          {
+            "name": "Quadro Go (GL) & Quadro FX Go series",
+            "gpus": []
+          },
+          {
+            "name": "Quadro FX (x500M) series",
+            "gpus": []
+          },
+          {
+            "name": "Quadro FX (x600M) series",
+            "gpus": []
+          },
+          {
+            "name": "Quadro FX (x700M) series",
+            "gpus": []
+          },
+          {
+            "name": "Quadro FX (x800M) series",
+            "gpus": []
+          },
+          {
+            "name": "Quadro (xxxxM) series",
+            "gpus": []
+          },
+          {
+            "name": "Quadro (Kx000M) series",
+            "gpus": []
+          },
+          {
+            "name": "Quadro (Kx100M) series",
+            "gpus": []
+          },
+          {
+            "name": "Quadro (Kx200M) series",
+            "gpus": []
+          },
+          {
+            "name": "Quadro (Mx000M) series",
+            "gpus": []
+          },
+          {
+            "name": "Quadro (Mx200) series",
+            "gpus": []
+          },
+          {
+            "name": "Quadro (Mx500) series",
+            "gpus": []
+          },
+          {
+            "name": "Quadro (Px000) series",
+            "gpus": []
+          },
+          {
+            "name": "Quadro (Px200) series",
+            "gpus": []
+          },
+          {
+            "name": "Quadro RTX / T x000 series",
+            "gpus": []
+          },
+          {
+            "name": "RTX Ax000 series",
+            "gpus": []
+          },
+          {
+            "name": "Mobility Quadro NVS series",
+            "gpus": []
+          },
+          {
+            "name": "Mobility NVS series",
+            "gpus": []
+          }
+        ]
+      },
+      {
+        "name": "Data Center GPUs",
+        "generations": [
+          {
+            "name": "GRID",
+            "gpus": []
+          },
+          {
+            "name": "Tesla",
+            "gpus": []
+          }
+        ]
+      }
+    ]
+  }
